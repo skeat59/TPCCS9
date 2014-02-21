@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstThread", "MyFirstThread\MyFirstThread.csproj", "{EB74D6F3-B121-413F-91D0-197958F63D21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB74D6F3-B121-413F-91D0-197958F63D21}.Debug|x86.ActiveCfg = Debug|x86
+		{EB74D6F3-B121-413F-91D0-197958F63D21}.Debug|x86.Build.0 = Debug|x86
+		{EB74D6F3-B121-413F-91D0-197958F63D21}.Release|x86.ActiveCfg = Release|x86
+		{EB74D6F3-B121-413F-91D0-197958F63D21}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
